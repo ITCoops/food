@@ -1,0 +1,1167 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_line {
+    background-image: url('../主菜单农场_files/u0_line.png');
+}
+
+.u0_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:998px;
+    height:3px;
+}
+
+.u0 {
+    position:absolute;
+    left:0px;
+    top:29px;
+    width:998px;
+    height:10px;
+    
+}
+
+.u1 {
+    position:absolute;
+    left:1px;
+    top:0px;
+    width:171px;
+    height:44px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:654px;
+    top:16px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:964px;
+    top:16px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:300px;
+    top:16px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:373px;
+    top:16px;
+    width:58px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:182px;
+    top:16px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../主菜单农场_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:208px;
+    top:11px;
+    width:16px;
+    height:22px;
+}
+
+#u7_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:22px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:241px;
+    top:16px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:446px;
+    top:16px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:905px;
+    top:14px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_menu {
+    background-image: url('../主菜单农场_files/u12_menu.png');
+}
+
+.u12_menu {
+    position:absolute;
+    left:898px;
+    top:8px;
+    width:44px;
+    height:29px;
+}
+
+#u12_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+#u13 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:25px
+}
+
+.u14_normal {
+    background-image: url('../主菜单农场_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_menu {
+    background-image: url('../主菜单农场_files/u16_menu.png');
+}
+
+.u16_menu {
+    position:absolute;
+    left:-3px;
+    top:17px;
+    width:75px;
+    height:69px;
+}
+
+#u16_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:66px;
+}
+
+#u17 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:71px;
+    height:65px
+}
+
+.u18_normal {
+    background-image: url('../主菜单农场_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:66px;
+    height:20px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:26px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../主菜单农场_files/u18_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:66px;
+    height:20px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:26px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../主菜单农场_files/u18_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:66px;
+    height:20px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:26px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_menu {
+    background-image: url('../主菜单农场_files/u24_menu.png');
+}
+
+.u24_menu {
+    position:absolute;
+    left:63px;
+    top:37px;
+    width:71px;
+    height:92px;
+}
+
+#u24_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:89px;
+}
+
+#u25 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:67px;
+    height:88px
+}
+
+.u26_normal {
+    background-image: url('../主菜单农场_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:62px;
+    height:20px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:26px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:58px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../主菜单农场_files/u26_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:62px;
+    height:20px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:26px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:58px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../主菜单农场_files/u26_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:62px;
+    height:20px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:26px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:58px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_mouseOver {
+    background-image: url('../主菜单农场_files/u32_mouseOver.png');
+}
+
+.u32_normal {
+    background-image: url('../主菜单农场_files/u32_mouseOver.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:62px;
+    height:23px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:29px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:58px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../主菜单农场_files/u7_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:930px;
+    top:10px;
+    width:16px;
+    height:22px;
+}
+
+#u34_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:22px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:812px;
+    top:18px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../320农场配送支持_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:76px;
+    width:76px;
+    height:442px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:448px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:213px;
+    width:72px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:6px;
+    top:114px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:6px;
+    top:88px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:109px;
+    top:88px;
+    width:125px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../320农场配送支持_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:109px;
+    top:137px;
+    width:459px;
+    height:368px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:459px;
+    height:368px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:176px;
+    width:455px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:109px;
+    top:558px;
+    width:459px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u46 {
+    position:absolute;
+    left:109px;
+    top:628px;
+    width:464px;
+    height:65px
+}
+
+.u47_normal {
+    background-image: url('../320农场配送支持_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:71px;
+    height:20px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:26px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../320农场配送支持_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:71px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../320农场配送支持_files/u51_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:121px;
+    top:0px;
+    width:288px;
+    height:20px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:294px;
+    height:26px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:284px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../320农场配送支持_files/u49_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:409px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../320农场配送支持_files/u47_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:71px;
+    height:20px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:26px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../320农场配送支持_files/u49_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:71px;
+    top:20px;
+    width:50px;
+    height:20px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../320农场配送支持_files/u51_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:121px;
+    top:20px;
+    width:288px;
+    height:20px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:294px;
+    height:26px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:284px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../320农场配送支持_files/u49_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:409px;
+    top:20px;
+    width:50px;
+    height:20px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../320农场配送支持_files/u47_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:71px;
+    height:20px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:26px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../320农场配送支持_files/u49_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:71px;
+    top:40px;
+    width:50px;
+    height:20px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../320农场配送支持_files/u51_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:121px;
+    top:40px;
+    width:288px;
+    height:20px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:294px;
+    height:26px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:284px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../320农场配送支持_files/u49_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:409px;
+    top:40px;
+    width:50px;
+    height:20px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:109px;
+    top:694px;
+    width:459px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

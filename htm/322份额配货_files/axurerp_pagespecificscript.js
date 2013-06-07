@@ -1,0 +1,17 @@
+﻿for(var i = 0; i < 205; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+
+$axure.eventManager.pageLoad(
+function (e) {
+
+});
+gv_vAlignTable['u122'] = 'top';gv_vAlignTable['u156'] = 'top';gv_vAlignTable['u130'] = 'top';gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u2'] = 'top';gv_vAlignTable['u99'] = 'top';gv_vAlignTable['u140'] = 'top';gv_vAlignTable['u17'] = 'top';gv_vAlignTable['u55'] = 'top';gv_vAlignTable['u186'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u27'] = 'top';gv_vAlignTable['u124'] = 'top';gv_vAlignTable['u138'] = 'top';gv_vAlignTable['u192'] = 'top';gv_vAlignTable['u172'] = 'top';gv_vAlignTable['u67'] = 'top';gv_vAlignTable['u11'] = 'top';gv_vAlignTable['u120'] = 'top';gv_vAlignTable['u152'] = 'top';gv_vAlignTable['u108'] = 'center';gv_vAlignTable['u37'] = 'top';gv_vAlignTable['u93'] = 'top';gv_vAlignTable['u21'] = 'top';gv_vAlignTable['u200'] = 'top';gv_vAlignTable['u89'] = 'top';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u47'] = 'top';gv_vAlignTable['u184'] = 'top';gv_vAlignTable['u103'] = 'top';gv_vAlignTable['u164'] = 'top';gv_vAlignTable['u31'] = 'top';gv_vAlignTable['u112'] = 'top';gv_vAlignTable['u57'] = 'top';gv_vAlignTable['u203'] = 'top';gv_vAlignTable['u41'] = 'top';gv_vAlignTable['u118'] = 'top';gv_vAlignTable['u176'] = 'top';gv_vAlignTable['u174'] = 'top';gv_vAlignTable['u85'] = 'top';gv_vAlignTable['u51'] = 'top';gv_vAlignTable['u182'] = 'top';gv_vAlignTable['u101'] = 'top';gv_vAlignTable['u77'] = 'top';gv_vAlignTable['u144'] = 'top';gv_vAlignTable['u202'] = 'top';gv_vAlignTable['u166'] = 'top';gv_vAlignTable['u75'] = 'top';gv_vAlignTable['u95'] = 'top';gv_vAlignTable['u61'] = 'top';gv_vAlignTable['u116'] = 'top';gv_vAlignTable['u158'] = 'top';gv_vAlignTable['u114'] = 'top';gv_vAlignTable['u33'] = 'top';gv_vAlignTable['u160'] = 'top';gv_vAlignTable['u126'] = 'top';gv_vAlignTable['u71'] = 'top';gv_vAlignTable['u198'] = 'top';gv_vAlignTable['u79'] = 'top';gv_vAlignTable['u43'] = 'top';gv_vAlignTable['u150'] = 'top';gv_vAlignTable['u142'] = 'top';gv_vAlignTable['u106'] = 'center';gv_vAlignTable['u168'] = 'top';gv_vAlignTable['u154'] = 'top';gv_vAlignTable['u87'] = 'top';gv_vAlignTable['u53'] = 'top';gv_vAlignTable['u104'] = 'top';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u65'] = 'top';gv_vAlignTable['u97'] = 'top';gv_vAlignTable['u63'] = 'top';gv_vAlignTable['u170'] = 'top';gv_vAlignTable['u134'] = 'top';gv_vAlignTable['u81'] = 'top';gv_vAlignTable['u128'] = 'top';gv_vAlignTable['u190'] = 'top';gv_vAlignTable['u9'] = 'top';gv_vAlignTable['u73'] = 'top';gv_vAlignTable['u69'] = 'top';gv_vAlignTable['u91'] = 'top';gv_vAlignTable['u188'] = 'top';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u204'] = 'top';gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u29'] = 'top';gv_vAlignTable['u132'] = 'top';gv_vAlignTable['u83'] = 'top';gv_vAlignTable['u178'] = 'top';gv_vAlignTable['u146'] = 'top';gv_vAlignTable['u196'] = 'top';gv_vAlignTable['u15'] = 'top';gv_vAlignTable['u49'] = 'top';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u148'] = 'top';
+u201.style.cursor = 'pointer';
+$axure.eventManager.click('u201', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('323份额发货.html');
+
+}
+});
+gv_vAlignTable['u25'] = 'top';gv_vAlignTable['u59'] = 'top';gv_vAlignTable['u45'] = 'top';gv_vAlignTable['u162'] = 'top';gv_vAlignTable['u35'] = 'top';gv_vAlignTable['u136'] = 'top';gv_vAlignTable['u180'] = 'top';gv_vAlignTable['u194'] = 'top';
